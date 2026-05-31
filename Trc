@@ -1,0 +1,20 @@
+{
+  "name": "SunList",
+  "logoURI": "https://cdn.sunpump.meme/public/logo/2614190_TSaYze_fORcG4iMHodz.png",
+  "timestamp": 1746048000000,
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "TFCz7GrL3gzH4Xn4moCmbAQyYJHTv4xDU6",
+      "name": "TRC USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://cdn.sunpump.meme/public/logo/2614190_TSaYze_fORcG4iMHodz.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
